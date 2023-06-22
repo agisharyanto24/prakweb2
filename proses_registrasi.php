@@ -15,7 +15,7 @@ include_once('sidebar.php');
               <li class="breadcrumb-item"><a href="home.php">Home</a></li>
               <li class="breadcrumb-item"><a href="form_register.php">Form Regist Data Science</a></li>
               <li class="breadcrumb-item active">Hasil Register</li>
-            </ol>
+            </ol> 
           </div><!-- /.col -->
         </div><!-- /.row -->
       </div><!-- /.container-fluid -->

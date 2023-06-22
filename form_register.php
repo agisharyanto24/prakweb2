@@ -135,7 +135,7 @@ include_once('sidebar.php');
         </body>
         </html>
     </section>
-</div>
+</div> 
 
 <!-- ini untuk tutup konten -->
 <?php

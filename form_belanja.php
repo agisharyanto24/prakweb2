@@ -1,7 +1,7 @@
 <?php
 include_once('navbar.php');
 include_once('sidebar.php');
-?>
+?> 
 <!-- ini untuk buka konten -->
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->

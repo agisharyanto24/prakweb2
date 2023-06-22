@@ -89,7 +89,7 @@ if($username == "admin" && $password == "12345"){
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> 
 
 	<script src="dist_login/js/jquery.min.js"></script>
   <script src="dist_login/js/popper.js"></script>

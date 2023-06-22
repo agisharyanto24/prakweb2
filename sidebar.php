@@ -16,7 +16,7 @@
              <div class="info">
                  <a href="home.php" class="d-block">Febrianscah</a>
              </div>
-         </div>
+         </div> 
 
          <!-- SidebarSearch Form -->
          <div class="form-inline">
