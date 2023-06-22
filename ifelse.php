@@ -7,4 +7,4 @@ if ($teman == "daden"){
     echo "daden bukan teman saya";
 }
 
-?>
+?> 

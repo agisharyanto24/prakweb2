@@ -50,7 +50,7 @@
                                 <label for="produk_2" class="custom-control-label">MESIN CUCI</label>
                             </div>
                         </div>
-                    </div>
+                    </div> 
                     <div class="form-group row">
                         <label for="jumlah" class="col-4 col-form-label">Jumlah</label>
                         <div class="col-3">

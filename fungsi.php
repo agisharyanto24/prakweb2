@@ -7,7 +7,7 @@ if ($_nilai > 55){
 }else{
     return 'anda tidak Lulus';
 }
-}
+} 
 
 //1. buat fungsi grade, lalu kasih keterangan :
 // jika nilai di atas 85-100 grade A

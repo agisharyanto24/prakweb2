@@ -9,7 +9,7 @@ $uas = $_POST ['nilai_uas'];
 $tugas = $_POST ['nilai_tugas'];
 $_nilai = $uts + $uas + $tugas / 3;
 $keterangan = kelulusan ($_nilai);
-$kelas = grade($_nilai);
+$kelas = grade($_nilai); 
 
 //cetak data yang telah di ambil kedalam browser
 if(!empty($proses)){

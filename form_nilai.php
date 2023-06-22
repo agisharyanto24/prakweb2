@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<body>
+<body> 
     <div class="container">
         <h3 style="text-align: center;">Form Nilai Mahasiswa</h3>
         <hr />
