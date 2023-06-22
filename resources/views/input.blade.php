@@ -21,7 +21,7 @@
             <label for="nama" class="col-4 col-form-label">Nama</label> 
             <div class="col-8">
               <input id="nama" name="nama" type="text" class="form-control" required="required">
-            </div>
+            </div> 
           </div>
           <div class="form-group row">
             <label class="col-4 col-form-label" for="email">Email</label> 

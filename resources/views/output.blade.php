@@ -22,7 +22,7 @@
         </thead>
         <tbody>
             <tr>
-                <td>{{ $data ['nama'] }} </td>
+                <td>{{ $data ['nama'] }} </td> 
                 <td>{{ $data ['email'] }} </td>
                 <td>{{ $data ['lokasi'] }} </td>
                 <td>{{ $data ['jk'] }} </td>

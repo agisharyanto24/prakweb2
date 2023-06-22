@@ -18,7 +18,7 @@
                             </a>
                             <div class="collapse" id="collapseLayouts" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
                                 <nav class="sb-sidenav-menu-nested nav">
-                                    
+                                     
                                     <a class="nav-link" href="#">Kategori Produk</a>
                                     <a class="nav-link" href="#">Kumpulan Produk</a>
 

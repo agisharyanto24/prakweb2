@@ -24,7 +24,7 @@
         <button name="submit" value="submit">Kirim</button>
     </form>
 
-    {{--
+    {{-- 
         Note :
         @ = untuk menulis kode yang lebih efisien ini bawaan Template dari blade engine atau dari laravelnya
 
