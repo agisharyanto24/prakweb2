@@ -5,7 +5,7 @@ require_once 'dbkoneksi.php';
 <form method="POST" action="proses_produk.php">
   <div class="form-group row">
     <label for="kode" class="col-4 col-form-label">Kode</label> 
-    <div class="col-8">
+    <div class="col-8"> 
       <div class="input-group">
         <div class="input-group-prepend">
           <div class="input-group-text">

@@ -6,7 +6,7 @@ $_idedit = $_GET['idedit'];
         // edit
         $sql = "SELECT * FROM produk WHERE id = ?";
         $st = $dbh->prepare($sql);
-        $st->execute([$_idedit]);
+        $st->execute([$_idedit]); 
         $row = $st->fetch();
     }else{
         // new data

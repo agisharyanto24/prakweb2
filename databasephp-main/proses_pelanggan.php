@@ -9,7 +9,7 @@ require_once 'dbkoneksi.php';
    $_tanggal = $_POST['tgl_lahir'];
    $_email = $_POST['email'];
    $_kartu = $_POST['kartu_id'];
-
+ 
    $_proses = $_POST['proses'];
 
    // array data

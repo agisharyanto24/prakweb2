@@ -1,7 +1,7 @@
 <?php 
   $host = 'localhost';
   $db = 'dbpelanggan';
-  $user = 'root';
+  $user = 'root'; 
   $pass = '';
   $charset='utf8mb4';
 

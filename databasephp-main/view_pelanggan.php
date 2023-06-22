@@ -13,7 +13,7 @@ require_once 'dbkoneksi.php';
     //echo 'NAMA pelanggan ' . $row['nama'];
 ?>
 
-<table class="table table-striped">
+<table class="table table-striped"> 
     <tbody>
         <tr>
             <td>ID</td>

@@ -8,7 +8,7 @@
 
 <a class="btn btn-success" href="form_pelanggan.php" role="button">Create Produk</a>
 <table class="table" width="100%" border="1" cellspacing="2" cellpadding="2">
-    <thead>
+    <thead> 
         <tr style="text-align: center;">
             <th>No</th>
             <th>Kode</th>

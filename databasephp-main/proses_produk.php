@@ -9,7 +9,7 @@ require_once 'dbkoneksi.php';
    $_minstok = $_POST['min_stok'];
    $_jenis = $_POST['jenis'];
 
-   $_proses = $_POST['proses'];
+   $_proses = $_POST['proses']; 
 
    // array data
    $ar_data[]=$_kode; // ? 1
