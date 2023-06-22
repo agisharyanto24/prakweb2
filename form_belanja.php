@@ -30,7 +30,7 @@
                                     required="required">
                             </div>
                         </div>
-                    </div>
+                    </div> 
                     <div class="form-group row">
                         <label class="col-4">Pilih Produk</label>
                         <div class="col-8">
