@@ -9,7 +9,7 @@ define ('PHI', 3.14);
 // definisikan jari-jari
 $jari = 8;
 $luas = PHI * $jari * $jari;
-$keliling = 2 * PHI * $jari;
+$keliling = 2 * PHI * $jari; 
 
 echo "Luas lingkaran dengan jari-jari 8 adalah  $luas";
 echo "<br/>Keliling lingkarannya $keliling";

@@ -1,6 +1,6 @@
 <?php
 // definisikan variable
-$namas = 'febrianscah';
+$namas = 'Agis Haryanto';
 $umur = 18;
 $berat = 53;
 

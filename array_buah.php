@@ -5,7 +5,7 @@ $ar_buah = array('pisang','mangga','jeruk');
 //array indexed
 $buah = ['alpukat','jeruk','mangga','pisang'];
 //cara manggil array indexed
-//echo $buah[1];
+//echo $buah[1]; 
 
 //cetak jumlah buah
 echo '<br>Jumlah buah ' .count($buah);

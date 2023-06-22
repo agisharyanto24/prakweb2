@@ -7,6 +7,6 @@ echo "<ol>";
 foreach ($buah as $fruit => $k ){
     echo "<li>$fruit - $k  </li>";
 }
-echo "</ol>";
+echo "</ol>"; 
 
 ?>
