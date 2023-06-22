@@ -25,7 +25,7 @@ $data_jenis_produk = $obj_jenis_produk->dataJenis_produk();
                 </div><!-- /.col -->
             </div><!-- /.row -->
         </div><!-- /.container-fluid -->
-    </div>
+    </div> 
 
     <section class="content">
         <div class="container">

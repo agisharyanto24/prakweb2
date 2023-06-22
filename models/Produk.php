@@ -4,7 +4,7 @@ class Produk{
     public function __construct(){
         global $dbh; //panggil instance object di koneksi.php
         $this->koneksi = $dbh;
-    }
+    } 
     public function tampilProduk(){
         //select semua kolom yang ada di table produk
         $sql = "SELECT p.*, j.nama AS jenis FROM produk p

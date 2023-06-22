@@ -19,7 +19,7 @@ $data = [
     $_stok,
     $_minstok,
     $_jenis,
-];
+]; 
 
 //step 3 eksekusi data array melalui tombol tambah, ubah, hapus
 $model = new Produk();

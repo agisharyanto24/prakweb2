@@ -18,7 +18,7 @@ $produk = $obj_produk->ambilProduk($id);
             <div class="row mb-2">
                 <div class="col-sm-6">
                     <h1 class="m-0">Detail Produk</h1>
-                </div><!-- /.col -->
+                </div><!-- /.col --> 
                 <div class="col-sm-6">
                     <ol class="breadcrumb float-sm-right">
                         <li class="breadcrumb-item"><a href="index.php?hal=home">Home</a></li>

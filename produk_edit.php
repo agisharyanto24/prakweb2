@@ -26,7 +26,7 @@ $produk = !empty($idedit) ? $obj_produk->ambilProduk($idedit) : [];
 //maka fungsi ambil produk akan di jalankan dengan parameter id produk ($idedit) yang ingin di edit
 // dan akan mengembalikan data produk yang sesuai
 ?>
-
+ 
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <div class="content-header">

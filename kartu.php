@@ -19,7 +19,7 @@ $data_kartu = $model->dataKartu();
                 </div><!-- /.col -->
             </div><!-- /.row -->
         </div><!-- /.container-fluid -->
-    </div>
+    </div> 
 
     <section class="content">
         <div class="container">

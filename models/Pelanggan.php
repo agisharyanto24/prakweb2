@@ -4,7 +4,7 @@ class  Pelanggan{
     public function __construct(){
         global $dbh; //panggil instance object di koneksi.php
         $this->koneksi = $dbh;
-    }
+    } 
     public function dataPelanggan(){
         $sql = "SELECT * FROM pelanggan";
         // -- INNER JOIN jenis_produk j ON j.id = c.jenis_produk_id

@@ -1,5 +1,5 @@
 <footer class="main-footer" style="text-align: center;">
-    <strong>Copyright @ Febrianscah<a href="https://adminlte.io"></a>.</strong>
+    <strong>Copyright @ AgisHaryanto<a href="https://adminlte.io"></a>.</strong>
     <div class="float-right d-none d-sm-inline-block">
         <b>Version</b> 3.2.0
     </div>

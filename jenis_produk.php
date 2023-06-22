@@ -17,7 +17,7 @@ $data_jenis_produk = $model->dataJenis_produk();
                         <li class="breadcrumb-item active">Jenis Produk</li>
                     </ol>
                 </div><!-- /.col -->
-            </div><!-- /.row -->
+            </div><!-- /.row --> 
         </div><!-- /.container-fluid -->
     </div>
 

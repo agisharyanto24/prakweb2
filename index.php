@@ -12,7 +12,7 @@ include_once 'models/Pelanggan.php';
 
 
 include_once('navbar.php');
-include_once('sidebar.php');
+include_once('sidebar.php'); 
 
 // logic halaman
 // tangkap request menu di url (index.php?hal=(nama file atau halaman nya))

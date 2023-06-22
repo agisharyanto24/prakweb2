@@ -4,7 +4,7 @@ $dsn = 'mysql:dbname=dbkoperasi;host=localhost';
 $user = 'root';
 $password = '';
 
-try {
+try { 
     $dbh = new PDO($dsn, $user, $password);
     $dbh->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     // echo '<h1>Sukses Koneksi Database';
