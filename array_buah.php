@@ -1,7 +1,7 @@
 <?php
 //cara penulisan array
 $ar_buah = array('pisang','mangga','jeruk');
-
+ 
 //array indexed
 $buah = ['alpukat','jeruk','mangga','pisang'];
 //cara manggil array indexed

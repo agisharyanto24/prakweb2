@@ -2,7 +2,7 @@
 // konstanta adalah pengeidentifikasi atau nama sederhana yang dapat di berikan nilai tetap apapun.
 define ('PHI', 3.14);
 
-
+ 
 // soal 1. cari nilai dari luas lingkaran dengan jari-jari 8
 // soal 2. cari nilai dari keliling lingkaran dengan jari-jari 8
 

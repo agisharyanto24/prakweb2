@@ -5,7 +5,7 @@ $ns3 = ['id'=>1, 'nim'=>'01103','uts'=>89,'uas'=>95,'tugas'=>98];
 //simpan seluruh data variable array assosiatif ke dalam array indexing
 $ar_nilai = [$ns1,$ns2,$ns3];
 ?>
-
+ 
 <h3 style="text-align: center;">Daftar Nilai Siswa</h3>
 <table border="1" width="100%">
 <thead>
